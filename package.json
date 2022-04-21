@@ -1,0 +1,16 @@
+{
+  "name": "checkname",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/mainCode.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.13.0",
+    "jest": "^27.5.1",
+    "typescript": "^4.6.3"
+  }
+}
